@@ -1,0 +1,88 @@
+C:\Users\Admin\Desktop\Test\sample1\bin\Debug\net7.0\sample1.exe
+C:\Users\Admin\Desktop\Test\sample1\bin\Debug\net7.0\sample1.deps.json
+C:\Users\Admin\Desktop\Test\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\Users\Admin\Desktop\Test\sample1\bin\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\sample1\bin\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\refint\sample1.dll
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test\sample1\obj\Debug\net7.0\ref\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\bin\Debug\net7.0\sample1.exe
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\bin\Debug\net7.0\sample1.deps.json
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\bin\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\bin\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\refint\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test\Lesson 2\sample1\obj\Debug\net7.0\ref\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\bin\Debug\net7.0\sample1.exe
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\bin\Debug\net7.0\sample1.deps.json
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\bin\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\bin\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\refint\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test\Lesson 4\sample1\obj\Debug\net7.0\ref\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.exe
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.deps.json
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\refint\sample1.dll
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.pdb
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test\Lesson 1\sample1\obj\Debug\net7.0\ref\sample1.dll
+D:\Обучение\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.exe
+D:\Обучение\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.deps.json
+D:\Обучение\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+D:\Обучение\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.dll
+D:\Обучение\Test\Lesson 1\sample1\bin\Debug\net7.0\sample1.pdb
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.dll
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\refint\sample1.dll
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.pdb
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+D:\Обучение\Test\Lesson 1\sample1\obj\Debug\net7.0\ref\sample1.dll
+D:\Обучение\Test\seminar 7\sample1\bin\Debug\net7.0\sample1.exe
+D:\Обучение\Test\seminar 7\sample1\bin\Debug\net7.0\sample1.deps.json
+D:\Обучение\Test\seminar 7\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+D:\Обучение\Test\seminar 7\sample1\bin\Debug\net7.0\sample1.dll
+D:\Обучение\Test\seminar 7\sample1\bin\Debug\net7.0\sample1.pdb
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.dll
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\refint\sample1.dll
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.pdb
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+D:\Обучение\Test\seminar 7\sample1\obj\Debug\net7.0\ref\sample1.dll
